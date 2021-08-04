@@ -1,0 +1,13 @@
+- 👋 Hi, I’m Solidity Developer
+- 👀 I’m interested in building and expanding on top of protocols...
+- 🌱 I’m currently programming in Solidity...
+- 💞️ I’m looking to collaborate on DAO's, Tokens, NFTs...
+- 📫 How to reach me:
+    LinkedIn - www.linkedin.com/in/lance-carter-0857a91b7
+    Email - lancecarter.3005@gmail.com
+    Twitter - @lanceecarterr...
+
+<!---
+ContractCarter/ContractCarter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
